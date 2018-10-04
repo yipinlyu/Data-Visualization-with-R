@@ -6,17 +6,6 @@ library(magrittr)
 
 ##--read data
 
-df <- read.csv('C:/Users/yipinl/Desktop/ORG/HR Analytics 7.27.csv', stringsAsFactors=FALSE)
-df <- df[,c("ï..Company.Hired" ,"Name","Team.Leader.Name" )]
-
-##--rename columns
-colnames(df)[colnames(df) == "ï..Company.Hired"] <-  "Company Hired"
-colnames(df)[colnames(df) == "Team.Leader.Name"] <-  "Team Leader Name"
-
-##-- conduct subset
-team_leader = "AD"
-df3 <- df[which(df$`Team Leader Name` == team_leader),]
-
 df3<- read.csv("C:/Users/yipinl/Desktop/Final Presentation/ORG_demo.csv")
 colnames(df3)[colnames(df3) == "Company.Hired"] <-  "Company Hired"
 colnames(df3)[colnames(df3) == "Team.Leader.Name"] <-  "Team Leader Name"
