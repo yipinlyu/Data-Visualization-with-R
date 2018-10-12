@@ -11,9 +11,9 @@ R.
 
 **Figure 1. Hyperbolic Tree Chart (Left) and Diagonal Network Chart (Right)**
 
-![Im![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo4.png)
+![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo4.png)
 
-![Im![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png)
+![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png)
 
 As Fig. 1 shows, the Hyperbolic Tree Chart gives us an excellent overall
 picture, while the Diagonal Network Chart clearly illustrate the hierarchical
