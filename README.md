@@ -9,7 +9,11 @@ frame to a JSON-like list by using the unique, append and strsplit function in
 R.
 
 
-**Figure 4. Hyperbolic Tree Chart (Left) and Diagonal Network Chart (Right)**
+**Figure 1. Hyperbolic Tree Chart (Left) and Diagonal Network Chart (Right)**
+
+![Im![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo4.png)
+
+![Im![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png)
 
 As Fig. 1 shows, the Hyperbolic Tree Chart gives us an excellent overall
 picture, while the Diagonal Network Chart clearly illustrate the hierarchical
