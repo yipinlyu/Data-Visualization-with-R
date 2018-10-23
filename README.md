@@ -11,12 +11,8 @@ R.
 
 **Figure 1. Hyperbolic Tree Chart (Left) and Diagonal Network Chart (Right)**
 
-![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo4.png ){:height="50%" width="50%"}
-
-![Image description](https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png ){:height="50%" width="50%"}
-
+<img width=200px height=200px src="https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png"></img> 
 <img width=100px height=200px src="https://github.com/yipinlyu/Data-Visualization-wth-R/blob/master/demo5.png"></img> 
-
 As Fig. 1 shows, the Hyperbolic Tree Chart gives us an excellent overall
 picture, while the Diagonal Network Chart clearly illustrate the hierarchical
 relationships. Notice that in this case, the node A has two supervisors. But we
